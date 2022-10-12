@@ -1,2 +1,2 @@
-# LearningC-NOTE
-Note and code of learning c++
+# ego4d code
+
